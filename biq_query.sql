@@ -1,4 +1,4 @@
-create or replace table 'parmar-taxi-proiect.taxi_data.tbl_analvtics' as(
+create or replace table 'parmar-taxi-proiect.taxi_data.tbl_analytics' as(
 SELECT 
 f.trip_id
 f.VendorID,
